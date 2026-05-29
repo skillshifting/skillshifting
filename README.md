@@ -9,9 +9,9 @@
 ## 🛠 Tech Stack
 - **Languages:** Python, SQL
 - **Machine Learning & Data Processing:** Scikit-learn (Linear/Ridge/Lasso, Random Forest, XGBoost), Pandas, NumPy
-- **Data Collection:** Selenium, BeautifulSoup, telebot
+- **Data Collection:** Telebot
 - **Databases:** ClickHouse, MongoDB
-- **BI & Analytics:** Apache Superset, Yandex DataLens
+- **BI & Analytics:** Yandex DataLens
 
 ## 📈 Featured Work & Projects
 - **Real Estate Price Prediction:** Built an end-to-end ML pipeline (from Express-EDA to Regression models) to predict apartment rental prices, achieving an $R^2$ of 0.87.
