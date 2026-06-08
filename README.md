@@ -7,7 +7,7 @@
 - 💡 I enjoy solving complex analytical problems: from web scraping and database architecture to deploying models and visualizing business metrics.
 
 ## 🛠 Tech Stack
-- **Languages:** Python, SQL
+- **Languages:** ![Python](https://shields.io) Python, SQL
 - **Machine Learning & Data Processing:** Scikit-learn (Linear/Ridge/Lasso, Random Forest, XGBoost), Pandas, NumPy
 - **Data Collection:** Telebot
 - **Databases:** ClickHouse, MongoDB
