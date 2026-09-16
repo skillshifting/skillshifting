@@ -1,4 +1,4 @@
-# Hi there, I'm Mikhail Dronov! BTW worked at Alfa Bank 👋
+# Hi there, I'm Mikhail Dronov! 👋
 
 ## 🚀 About Me
 - 🎓 I'm a student at **RUT (MIIT) in the Higher Engineering School (VISH)**, based in Moscow.
@@ -23,6 +23,8 @@
 - **Telegram:** [@soundfromsemetaries](https://t.me/soundfromsemetaries)
 - **Instagram:** [miketypeswag](https://instagram.com/miketypeswag)
 - **Email:** [dronovskill008@yandex.ru](mailto:dronovskill008@yandex.ru)
+
+BTW worked at Alfa Bank 
 
 ---
 ⭐️ *Feel free to reach out if you want to collaborate on ML projects or if you have internship opportunities!*
