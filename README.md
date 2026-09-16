@@ -1,4 +1,4 @@
-# Hi there, I'm Mikhail Dronov! 👋
+# Hi there, I'm Mikhail Dronov! BTW worked at Alfa Bank 👋
 
 ## 🚀 About Me
 - 🎓 I'm a student at **RUT (MIIT) in the Higher Engineering School (VISH)**, based in Moscow.
